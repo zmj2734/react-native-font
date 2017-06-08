@@ -1,0 +1,20 @@
+{
+  "name": "react-native-font",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "rnpm": { "assets": ["assets"] },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zmj2734/react-native-font.git"
+  },
+  "author": "zmj2734",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zmj2734/react-native-font/issues"
+  },
+  "homepage": "https://github.com/zmj2734/react-native-font#readme"
+}
